@@ -1,0 +1,7 @@
+C:\Users\bonus\source\repos\FacaCaixaAutoToolBar\FacaCaixaAutoToolBar\obj\X7 Debug\FacaCaixaAutoToolBar.csprojAssemblyReference.cache
+C:\Users\bonus\source\repos\FacaCaixaAutoToolBar\FacaCaixaAutoToolBar\obj\X7 Debug\Styles\Colors.baml
+C:\Users\bonus\source\repos\FacaCaixaAutoToolBar\FacaCaixaAutoToolBar\obj\X7 Debug\Styles\Styles.baml
+C:\Users\bonus\source\repos\FacaCaixaAutoToolBar\FacaCaixaAutoToolBar\obj\X7 Debug\ControlUI.g.cs
+C:\Users\bonus\source\repos\FacaCaixaAutoToolBar\FacaCaixaAutoToolBar\obj\X7 Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\bonus\source\repos\FacaCaixaAutoToolBar\FacaCaixaAutoToolBar\obj\X7 Debug\FacaCaixaAutoToolBar_MarkupCompile.cache
+C:\Users\bonus\source\repos\FacaCaixaAutoToolBar\FacaCaixaAutoToolBar\obj\X7 Debug\FacaCaixaAutoToolBar_MarkupCompile.lref

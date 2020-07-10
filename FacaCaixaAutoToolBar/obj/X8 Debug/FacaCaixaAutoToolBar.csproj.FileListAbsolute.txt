@@ -1,0 +1,20 @@
+C:\Users\bonus\source\repos\FacaCaixaAutoToolBar\FacaCaixaAutoToolBar\bin\Debug\AppUI.xslt
+C:\Users\bonus\source\repos\FacaCaixaAutoToolBar\FacaCaixaAutoToolBar\bin\Debug\UserUI.xslt
+C:\Users\bonus\source\repos\FacaCaixaAutoToolBar\FacaCaixaAutoToolBar\bin\Debug\CorelDrw.addon
+C:\Users\bonus\source\repos\FacaCaixaAutoToolBar\FacaCaixaAutoToolBar\bin\Debug\FacaCaixaAutoToolBar.dll
+C:\Users\bonus\source\repos\FacaCaixaAutoToolBar\FacaCaixaAutoToolBar\bin\Debug\FacaCaixaAutoToolBar.pdb
+C:\Users\bonus\source\repos\FacaCaixaAutoToolBar\FacaCaixaAutoToolBar\obj\X8 Debug\FacaCaixaAutoToolBar.csprojAssemblyReference.cache
+C:\Users\bonus\source\repos\FacaCaixaAutoToolBar\FacaCaixaAutoToolBar\obj\X8 Debug\Styles\Colors.baml
+C:\Users\bonus\source\repos\FacaCaixaAutoToolBar\FacaCaixaAutoToolBar\obj\X8 Debug\Styles\Styles.baml
+C:\Users\bonus\source\repos\FacaCaixaAutoToolBar\FacaCaixaAutoToolBar\obj\X8 Debug\ControlUI.g.cs
+C:\Users\bonus\source\repos\FacaCaixaAutoToolBar\FacaCaixaAutoToolBar\obj\X8 Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\bonus\source\repos\FacaCaixaAutoToolBar\FacaCaixaAutoToolBar\obj\X8 Debug\FacaCaixaAutoToolBar_MarkupCompile.cache
+C:\Users\bonus\source\repos\FacaCaixaAutoToolBar\FacaCaixaAutoToolBar\obj\X8 Debug\FacaCaixaAutoToolBar_MarkupCompile.lref
+C:\Users\bonus\source\repos\FacaCaixaAutoToolBar\FacaCaixaAutoToolBar\obj\X8 Debug\ControlUI.baml
+C:\Users\bonus\source\repos\FacaCaixaAutoToolBar\FacaCaixaAutoToolBar\obj\X8 Debug\Resources\Images.baml
+C:\Users\bonus\source\repos\FacaCaixaAutoToolBar\FacaCaixaAutoToolBar\obj\X8 Debug\FacaCaixaAutoToolBar.g.resources
+C:\Users\bonus\source\repos\FacaCaixaAutoToolBar\FacaCaixaAutoToolBar\obj\X8 Debug\FacaCaixaAutoToolBar.Properties.Resources.resources
+C:\Users\bonus\source\repos\FacaCaixaAutoToolBar\FacaCaixaAutoToolBar\obj\X8 Debug\FacaCaixaAutoToolBar.csproj.GenerateResource.cache
+C:\Users\bonus\source\repos\FacaCaixaAutoToolBar\FacaCaixaAutoToolBar\obj\X8 Debug\FacaCaixaAutoToolBar.csproj.CoreCompileInputs.cache
+C:\Users\bonus\source\repos\FacaCaixaAutoToolBar\FacaCaixaAutoToolBar\obj\X8 Debug\FacaCaixaAutoToolBar.dll
+C:\Users\bonus\source\repos\FacaCaixaAutoToolBar\FacaCaixaAutoToolBar\obj\X8 Debug\FacaCaixaAutoToolBar.pdb
